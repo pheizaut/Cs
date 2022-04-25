@@ -1,0 +1,45 @@
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\bin\Debug\net6.0\Harjoitus.exe
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\bin\Debug\net6.0\Harjoitus.deps.json
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\bin\Debug\net6.0\Harjoitus.runtimeconfig.json
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\bin\Debug\net6.0\Harjoitus.dll
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\bin\Debug\net6.0\ref\Harjoitus.dll
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\bin\Debug\net6.0\Harjoitus.pdb
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\obj\Debug\net6.0\Harjoitus.csproj.AssemblyReference.cache
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\obj\Debug\net6.0\Harjoitus.GeneratedMSBuildEditorConfig.editorconfig
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\obj\Debug\net6.0\Harjoitus.AssemblyInfoInputs.cache
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\obj\Debug\net6.0\Harjoitus.AssemblyInfo.cs
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\obj\Debug\net6.0\Harjoitus.csproj.CoreCompileInputs.cache
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\obj\Debug\net6.0\Harjoitus.dll
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\obj\Debug\net6.0\ref\Harjoitus.dll
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\obj\Debug\net6.0\Harjoitus.pdb
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Harjoitus\obj\Debug\net6.0\Harjoitus.genruntimeconfig.cache
+C:\ProgrammingP\Some code\Cs\Harjoitus\bin\Debug\net6.0\Harjoitus.exe
+C:\ProgrammingP\Some code\Cs\Harjoitus\bin\Debug\net6.0\Harjoitus.deps.json
+C:\ProgrammingP\Some code\Cs\Harjoitus\bin\Debug\net6.0\Harjoitus.runtimeconfig.json
+C:\ProgrammingP\Some code\Cs\Harjoitus\bin\Debug\net6.0\Harjoitus.dll
+C:\ProgrammingP\Some code\Cs\Harjoitus\bin\Debug\net6.0\Harjoitus.pdb
+C:\ProgrammingP\Some code\Cs\Harjoitus\obj\Debug\net6.0\Harjoitus.csproj.AssemblyReference.cache
+C:\ProgrammingP\Some code\Cs\Harjoitus\obj\Debug\net6.0\Harjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingP\Some code\Cs\Harjoitus\obj\Debug\net6.0\Harjoitus.AssemblyInfoInputs.cache
+C:\ProgrammingP\Some code\Cs\Harjoitus\obj\Debug\net6.0\Harjoitus.AssemblyInfo.cs
+C:\ProgrammingP\Some code\Cs\Harjoitus\obj\Debug\net6.0\Harjoitus.csproj.CoreCompileInputs.cache
+C:\ProgrammingP\Some code\Cs\Harjoitus\obj\Debug\net6.0\Harjoitus.dll
+C:\ProgrammingP\Some code\Cs\Harjoitus\obj\Debug\net6.0\refint\Harjoitus.dll
+C:\ProgrammingP\Some code\Cs\Harjoitus\obj\Debug\net6.0\Harjoitus.pdb
+C:\ProgrammingP\Some code\Cs\Harjoitus\obj\Debug\net6.0\Harjoitus.genruntimeconfig.cache
+C:\ProgrammingP\Some code\Cs\Harjoitus\obj\Debug\net6.0\ref\Harjoitus.dll
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\bin\Debug\net6.0\Harjoitus.exe
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\bin\Debug\net6.0\Harjoitus.deps.json
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\bin\Debug\net6.0\Harjoitus.runtimeconfig.json
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\bin\Debug\net6.0\Harjoitus.dll
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\bin\Debug\net6.0\Harjoitus.pdb
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\obj\Debug\net6.0\Harjoitus.csproj.AssemblyReference.cache
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\obj\Debug\net6.0\Harjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\obj\Debug\net6.0\Harjoitus.AssemblyInfoInputs.cache
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\obj\Debug\net6.0\Harjoitus.AssemblyInfo.cs
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\obj\Debug\net6.0\Harjoitus.csproj.CoreCompileInputs.cache
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\obj\Debug\net6.0\Harjoitus.dll
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\obj\Debug\net6.0\refint\Harjoitus.dll
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\obj\Debug\net6.0\Harjoitus.pdb
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\obj\Debug\net6.0\Harjoitus.genruntimeconfig.cache
+C:\ProgrammingP\Some code\Cs\Yhteenlaskin\obj\Debug\net6.0\ref\Harjoitus.dll

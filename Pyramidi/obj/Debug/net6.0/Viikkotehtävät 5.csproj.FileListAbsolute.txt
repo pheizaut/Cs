@@ -1,0 +1,30 @@
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\bin\Debug\net6.0\Viikkotehtävät 5.exe
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\bin\Debug\net6.0\Viikkotehtävät 5.deps.json
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\bin\Debug\net6.0\Viikkotehtävät 5.runtimeconfig.json
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\bin\Debug\net6.0\Viikkotehtävät 5.dll
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\bin\Debug\net6.0\ref\Viikkotehtävät 5.dll
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\bin\Debug\net6.0\Viikkotehtävät 5.pdb
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.csproj.AssemblyReference.cache
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.GeneratedMSBuildEditorConfig.editorconfig
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.AssemblyInfoInputs.cache
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.AssemblyInfo.cs
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.csproj.CoreCompileInputs.cache
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.dll
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\obj\Debug\net6.0\ref\Viikkotehtävät 5.dll
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.pdb
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.genruntimeconfig.cache
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\bin\Debug\net6.0\Viikkotehtävät 5.exe
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\bin\Debug\net6.0\Viikkotehtävät 5.deps.json
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\bin\Debug\net6.0\Viikkotehtävät 5.runtimeconfig.json
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\bin\Debug\net6.0\Viikkotehtävät 5.dll
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\bin\Debug\net6.0\Viikkotehtävät 5.pdb
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.csproj.AssemblyReference.cache
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.AssemblyInfoInputs.cache
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.AssemblyInfo.cs
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.csproj.CoreCompileInputs.cache
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.dll
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\obj\Debug\net6.0\refint\Viikkotehtävät 5.dll
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.pdb
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\obj\Debug\net6.0\Viikkotehtävät 5.genruntimeconfig.cache
+C:\ProgrammingP\Some code\Cs\Viikkotehtävät 5\obj\Debug\net6.0\ref\Viikkotehtävät 5.dll

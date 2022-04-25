@@ -1,0 +1,45 @@
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\bin\Debug\net6.0\tunti 6.exe
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\bin\Debug\net6.0\tunti 6.deps.json
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\bin\Debug\net6.0\tunti 6.runtimeconfig.json
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\bin\Debug\net6.0\tunti 6.dll
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\bin\Debug\net6.0\ref\tunti 6.dll
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\bin\Debug\net6.0\tunti 6.pdb
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\obj\Debug\net6.0\tunti 6.csproj.AssemblyReference.cache
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\obj\Debug\net6.0\tunti 6.GeneratedMSBuildEditorConfig.editorconfig
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\obj\Debug\net6.0\tunti 6.AssemblyInfoInputs.cache
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\obj\Debug\net6.0\tunti 6.AssemblyInfo.cs
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\obj\Debug\net6.0\tunti 6.csproj.CoreCompileInputs.cache
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\obj\Debug\net6.0\tunti 6.dll
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\obj\Debug\net6.0\ref\tunti 6.dll
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\obj\Debug\net6.0\tunti 6.pdb
+G:\Koulu\AMK\Ohjelmoinin perusteet c#\C# code\tunti 6\obj\Debug\net6.0\tunti 6.genruntimeconfig.cache
+C:\ProgrammingP\Some code\Cs\tunti 6\bin\Debug\net6.0\tunti 6.exe
+C:\ProgrammingP\Some code\Cs\tunti 6\bin\Debug\net6.0\tunti 6.deps.json
+C:\ProgrammingP\Some code\Cs\tunti 6\bin\Debug\net6.0\tunti 6.runtimeconfig.json
+C:\ProgrammingP\Some code\Cs\tunti 6\bin\Debug\net6.0\tunti 6.dll
+C:\ProgrammingP\Some code\Cs\tunti 6\bin\Debug\net6.0\tunti 6.pdb
+C:\ProgrammingP\Some code\Cs\tunti 6\obj\Debug\net6.0\tunti 6.csproj.AssemblyReference.cache
+C:\ProgrammingP\Some code\Cs\tunti 6\obj\Debug\net6.0\tunti 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingP\Some code\Cs\tunti 6\obj\Debug\net6.0\tunti 6.AssemblyInfoInputs.cache
+C:\ProgrammingP\Some code\Cs\tunti 6\obj\Debug\net6.0\tunti 6.AssemblyInfo.cs
+C:\ProgrammingP\Some code\Cs\tunti 6\obj\Debug\net6.0\tunti 6.csproj.CoreCompileInputs.cache
+C:\ProgrammingP\Some code\Cs\tunti 6\obj\Debug\net6.0\tunti 6.dll
+C:\ProgrammingP\Some code\Cs\tunti 6\obj\Debug\net6.0\refint\tunti 6.dll
+C:\ProgrammingP\Some code\Cs\tunti 6\obj\Debug\net6.0\tunti 6.pdb
+C:\ProgrammingP\Some code\Cs\tunti 6\obj\Debug\net6.0\tunti 6.genruntimeconfig.cache
+C:\ProgrammingP\Some code\Cs\tunti 6\obj\Debug\net6.0\ref\tunti 6.dll
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\bin\Debug\net6.0\tunti 6.exe
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\bin\Debug\net6.0\tunti 6.deps.json
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\bin\Debug\net6.0\tunti 6.runtimeconfig.json
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\bin\Debug\net6.0\tunti 6.dll
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\bin\Debug\net6.0\tunti 6.pdb
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\obj\Debug\net6.0\tunti 6.csproj.AssemblyReference.cache
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\obj\Debug\net6.0\tunti 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\obj\Debug\net6.0\tunti 6.AssemblyInfoInputs.cache
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\obj\Debug\net6.0\tunti 6.AssemblyInfo.cs
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\obj\Debug\net6.0\tunti 6.csproj.CoreCompileInputs.cache
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\obj\Debug\net6.0\tunti 6.dll
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\obj\Debug\net6.0\refint\tunti 6.dll
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\obj\Debug\net6.0\tunti 6.pdb
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\obj\Debug\net6.0\tunti 6.genruntimeconfig.cache
+C:\ProgrammingP\Some code\Cs\Kirjautuminen\obj\Debug\net6.0\ref\tunti 6.dll
